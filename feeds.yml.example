@@ -1,0 +1,5 @@
+feeds:
+- id: so-java-bounty
+  url: http://stackoverflow.com/feeds/tag?tagnames=java&sort=featured
+- id: so-go-bounty
+  url: http://stackoverflow.com/feeds/tag?tagnames=go&sort=featured
